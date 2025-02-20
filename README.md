@@ -21,4 +21,6 @@ The goal of this project and competition is to introduce you to the process of s
 - Simplifying the model
 - Competetion
 - Ensemble learning
+
+
  *July 2024*
